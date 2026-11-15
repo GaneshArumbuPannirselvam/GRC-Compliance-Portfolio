@@ -2,7 +2,7 @@
 **By [Your Name] | CompTIA A+ Technical Trainer | Aspiring GRC & IT Compliance Analyst**
 
 ## About Me
-I am a technical trainer with hands-on expertise in IT infrastructure, endpoint security, and translating complex technical concepts for diverse audiences. I am transitioning into Governance, Risk, and Compliance (GRC) in Canada, bridging operational IT controls with regulatory frameworks including **NIST CSF 2.0**, **ISO/IEC 27001**, **ITSG-33**, and **PIPEDA**.
+I am a technical Consultant with hands-on expertise in IT infrastructure, endpoint security, and translating complex technical concepts for diverse audiences. I am transitioning into Governance, Risk, and Compliance (GRC) in Canada, bridging operational IT controls with regulatory frameworks including **NIST CSF 2.0**, **ISO/IEC 27001**, **ITSG-33**, and **PIPEDA**.
 
 ---
 
